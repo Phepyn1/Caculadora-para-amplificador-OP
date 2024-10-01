@@ -1,6 +1,6 @@
 
 import numpy as np
-print("Calculadora do igor modelo 2.0")
+print("Calculadora de igor modelo 2.0")
 print("Para usar a calculadora é bem simples, basta falar os dados que você tem e os que você precisa")
 print("exemplo de dados:")
 print("Para 'Quais dados você tem?:'")
